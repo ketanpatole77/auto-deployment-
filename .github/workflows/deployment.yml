@@ -20,7 +20,7 @@ jobs:
 
     - name: Deploy to EC2
       env:
-        EC2_HOST: "43.204.114.137" 
+        EC2_HOST: "3.109.123.53" 
         EC2_USER: "ec2-user"            
 
       run: |
